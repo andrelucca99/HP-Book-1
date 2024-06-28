@@ -1,0 +1,21 @@
+{
+  "capitulos": [
+    { "cap": "/cap1", "title": "O menino que sobreviveu" },
+    { "cap": "/cap2", "title": "O vidro que sumiu" },
+    { "cap": "/cap3", "title": "As cartas de ninguém" },
+    { "cap": "/cap4", "title": "O guardião das chaves" },
+    { "cap": "/cap5", "title": "O Beco Diagonal" },
+    { "cap": "/cap6", "title": "O embarque na plataforma nove e meia" },
+    { "cap": "/cap7", "title": "O chapéu seletor" },
+    { "cap": "/cap8", "title": "O mestre das poções" },
+    { "cap": "/cap9", "title": "O duelo à meia-noite" },
+    { "cap": "/cap10", "title": "O Dia das Bruxas" },
+    { "cap": "/cap11", "title": "Quadribol" },
+    { "cap": "/cap12", "title": "O Espelho de Ojesed" },
+    { "cap": "/cap13", "title": "Nicolau Flamel" },
+    { "cap": "/cap14", "title": "Norberto, o dragão norueguês" },
+    { "cap": "/cap15", "title": "A Floresta Proibida" },
+    { "cap": "/cap16", "title": "No alçapão" },
+    { "cap": "/cap17", "title": "O homem de duas caras" }
+  ]
+}
