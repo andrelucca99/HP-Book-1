@@ -5,9 +5,9 @@ import PagesContext from './context/PagesContext';
 import pages from './utils/paginas.json';
 
 function App() {
-  const [pageTest, setPageTest] = useState(pages);
+  const [pageObjects, _setPageObjects] = useState(pages);
   return (
-    <PagesContext.Provider value={ { paginas: pageTest } }>
+    <PagesContext.Provider value={ { paginas: pageObjects } }>
       <RouterProvider router={ router } />
     </PagesContext.Provider>
   );
