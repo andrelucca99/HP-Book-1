@@ -7,7 +7,7 @@ type Props = {
 const Paragraph: React.FC<Props> = ({ children }) => {
   return (
     <div
-      className="bg-red-300 p-2 text-base h-full text-gray-700 mobile:leading-7 mobile:text-base desktop:text-lg desktop:leading-10 desktop:pt-6"
+      className="p-2 text-base h-full text-gray-700 mobile:leading-7 mobile:text-base desktop:text-lg desktop:leading-10 desktop:pt-6"
     >
       { children }
     </div>
