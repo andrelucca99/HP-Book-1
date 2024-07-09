@@ -10,58 +10,58 @@ function Page17() {
         left={
           <Paragraph>
             <p>
-              – Estou-lhe
-              avisando, moleque, a primeira gracinha que fizer, a primeira, vai ficar preso naquele armário
-              até o Natal.
+              – Não diga bobagem, Válter, ela detesta o menino.
               <br />
-              – Não vou fazer nada – disse Harry –, juro...
+              Com frequência, os Dursley falavam de Harry assim, como se ele não estivesse presente –
+              ou melhor, como se ele fosse alguma coisa muito desprezível que não conseguisse entendê-los,
+              como uma lesma.
               <br />
-              Mas tio Válter não acreditou nele. Ninguém nunca acreditava.
+              – E aquela sua amiga, como é mesmo o nome dela, Ivone?
               <br />
-              O problema era que sempre aconteciam coisas estranhas à volta de Harry e simplesmente
-              não adiantava dizer aos Dursley que não era sua culpa.
-            </p>
-            <p>
-              Uma vez, tia Petúnia, cansada de ver Harry voltar do barbeiro como se não tivesse estado
-              lá, apanhara uma tesoura de cozinha e cortara o cabelo dele tão curto que o deixara quase
-              careca, exceto por uma franja, que ela deixou “para esconder aquela cicatriz horrorosa”. Duda
-              morrera de rir de Harry, que passou a noite acordado imaginando o que seria a escola no dia
-              seguinte, onde já riam dele por causa das roupas folgadas e dos óculos emendados com fita
-              adesiva. Na manhã seguinte, porém, quando se levantou, os cabelos estavam exatamente como
-              eram antes de tia Petúnia cortá-los. Tinham-no deixado preso uma semana no armário por
-              causa disto, apesar de sua tentativa de explicar que não saberia explicar como é que os
-              cabelos tinham crescido tão depressa.
-            </p>
-            <p>
-              Outra vez, tia Petúnia tentara obrigá-lo a vestir um macacão velho de Duda (marrom com
-              pompons cor de laranja). Quanto mais tentava enfiá-lo pela
+              – Está passando férias em Majorca – respondeu Petúnia, com rispidez.
+              <br />
+              – Vocês podiam me deixar aqui – arriscou Harry esperançoso (ele poderia assistir ao que
+              quisesse na televisão para variar e, quem sabe, até dar uma voltinha no computador de Duda).
+              Tia Petúnia parecia que tinha engolido um limão.
+              <br />
+              – E quando voltarmos, encontrar a casa destruída? – rosnou.
+              <br />
+              – Não vou explodir a casa – prometeu Harry, mas os tios não estavam mais escutando.
+              <br />
+              – Talvez pudéssemos levá-lo ao zoológico – disse tia Petúnia lentamente – e deixá-lo no
+              carro...
+              <br />
+              – O carro é novo. Não vou deixá-lo sentado no carro sozinho...
+              <br />
+              Duda começou a chorar alto. Na realidade não estava chorando, fazia anos que não chorava
+              de verdade, mas sabia que se fizesse cara de choro e gritasse a
             </p>
           </Paragraph>
         }
         right={
           <Paragraph>
             <p>
-              cabeça dele, tanto menor o macacão ficava, até que finalmente parecia feito para um fantochinho de dedo, e com certeza
-              não ia servir para Harry. Tia Petúnia concluiu que devia ter encolhido na lavagem e Harry, para seu grande alívio, não foi castigado.
+              mãe lhe daria o que quisesse.
+              <br />
+              – Dudinha, querido, não chore, mamãe não vai deixar ele estragar o seu dia! – exclamou, abraçando-o.
+              <br />
+              – Não... quero... que... ele... vá! – Duda berrou entre grandes soluços fingidos. – Ele sempre
+              estraga tudo! – E lançou um riso maldoso por entre os braços da mãe.
+              <br />
+              Naquele instante a campainha tocou.
             </p>
             <p>
-              Por outro lado, ele se metera numa grande encrenca quando o encontraram no telhado da
-              cozinha da escola. A turma de Duda o estava perseguindo, como sempre, e tanto para surpresa
-              de Harry quanto dos outros, ele apareceu sentado na chaminé. Os Dursley receberam uma
-              carta muito zangada da diretora de Harry, contando que Harry andara escalando os prédios da
-              escola. Mas só o que tentara fazer (conforme gritou para tio Válter através da porta trancada
-              do armário) fora saltar para trás das grandes latas de lixo à porta da cozinha. Harry supunha
-              que o vento devia tê-lo apanhado na hora em que saltou.
+              – Ah, meu Deus, são eles chegando! – disse tia Petúnia nervosa, e um minuto depois, o
+              melhor amigo de Duda, Pedro Polkiss, entrou acompanhado da mãe. Pedro era um menino
+              magricela, com cara de rato. Em geral era quem segurava para trás os braços dos garotos
+              enquanto Duda batia neles. Na mesma hora Duda parou de fingir que estava chorando.
             </p>
             <p>
-              Mas hoje nada ia dar errado. Valia até a pena estar em companhia de Duda e Pedro para
-              passar o dia em outro lugar que não fosse a escola, o armário, ou a sala com cheiro de repolho
-              da Sra. Figg.
-            </p>
-            <p>
-              Enquanto dirigia, tio Válter se queixava à tia Petúnia. Ele gostava de se queixar de tudo:
-              das pessoas no trabalho, de Harry, do conselho, de Harry, o banco e Harry eram seus dois
-              assuntos preferidos. Esta manhã eram as motocicletas.
+              Meia hora depois, Harry, que não conseguia acreditar em sua sorte, estava sentado no banco
+              traseiro do carro dos Dursley, com Pedro e Duda, a caminho do jardim zoológico, pela
+              primeira vez na vida. O tio e a tia não tinham conseguido pensar no que fazer com ele, masantes de saírem, tio Válter puxara Harry para o lado.
+              <br />
+              – Estou-lhe avisando – disse, aproximando a cara grande e vermelha de Harry.
             </p>
           </Paragraph>
         }

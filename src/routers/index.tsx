@@ -14,9 +14,9 @@ import Page9 from '../pages/capitulos/Capitulo1/pages/page9';
 import Page10 from '../pages/capitulos/Capitulo1/pages/page10';
 import Page11 from '../pages/capitulos/Capitulo1/pages/page11';
 import Page12 from '../pages/capitulos/Capitulo1/pages/page12';
+import Page13 from '../pages/capitulos/Capitulo1/pages/page13';
 
 import Capitulo2 from '../pages/capitulos/capitulo2';
-import Page13 from '../pages/capitulos/capitulo2/pages/page13';
 import Page14 from '../pages/capitulos/capitulo2/pages/page14';
 import Page15 from '../pages/capitulos/capitulo2/pages/page15';
 import Page16 from '../pages/capitulos/capitulo2/pages/page16';
@@ -25,6 +25,8 @@ import Page18 from '../pages/capitulos/capitulo2/pages/page18';
 import Page19 from '../pages/capitulos/capitulo2/pages/page19';
 import Page20 from '../pages/capitulos/capitulo2/pages/page20';
 import Page21 from '../pages/capitulos/capitulo2/pages/page21';
+import Page22 from '../pages/capitulos/capitulo2/pages/page22';
+
 import NotFound from '../pages/NotFound';
 
 export const router = createBrowserRouter([
@@ -92,6 +94,10 @@ export const router = createBrowserRouter([
         path: 'page12',
         element: <Page12 />,
       },
+      {
+        path: 'page13',
+        element: <Page13 />,
+      },
     ],
   },
   {
@@ -100,10 +106,6 @@ export const router = createBrowserRouter([
       {
         path: '',
         element: <Capitulo2 />,
-      },
-      {
-        path: 'page13',
-        element: <Page13 />,
       },
       {
         path: 'page14',
@@ -136,6 +138,10 @@ export const router = createBrowserRouter([
       {
         path: 'page21',
         element: <Page21 />,
+      },
+      {
+        path: 'page22',
+        element: <Page22 />,
       },
     ],
   },

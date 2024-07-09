@@ -10,62 +10,55 @@ function Page15() {
         left={
           <Paragraph>
             <p>
-              que no ano passado.
+              Duda ganhara o novo computador que
+              queria, para não falar na segunda televisão e na bicicleta de corrida. Para o quê, exatamente,
+              Duda queria uma bicicleta de corrida era um mistério para Harry, porque Duda era muito
+              gordo e detestava fazer exercícios – a não ser, é claro, que envolvessem bater em alguém. O
+              saco de pancadas preferido de Duda era Harry, mas nem sempre Duda conseguia pegá-lo.Harry não parecia, mas era muito rápido.
+            </p>
+            <p>
+              Talvez fosse porque vivia num armário escuro, mas Harry sempre fora pequeno e muito
+              magro para a idade. Parecia ainda menor e mais magro do que realmente era porque só lhe
+              davam para vestir as roupas velhas de Duda e Duda era quatro vezes maior do que ele. Harry
+              tinha um rosto magro, joelhos ossudos, cabelos negros e olhos muito verdes. Usava óculos
+              redondos, remendados com fita adesiva, por causa das muitas vezes que Duda o socara no
+              nariz. A única coisa que Harry gostava em sua aparência era uma cicatriz fininha na testa que
+              tinha a forma de um raio. Existia desde que se entendia por gente e a primeira pergunta que se
+              lembrava de ter feito à tia Petúnia era como a arranjara.
               <br />
-              – Querido, você não contou o presente de tia Guida, está aqui debaixo deste grandão do
-              papai e da mamãe, está vendo?
-              <br />
-              – Está bem, então são trinta e sete – respondeu Duda ficando vermelho. Harry, percebendo
-              que Duda estava preparando um enorme acesso de raiva, começou a engolir seu bacon o mais
-              depressa possível, caso o primo virasse a mesa.
-              <br />
-              Tia Petúnia obviamente também sentiu o perigo, porque na mesma hora disse:
-              <br />
-              – E vamos comprar mais dois presentes para você quando sairmos hoje. Que tal, fofinho?
-              Mais dois presentes. Está bem assim?
-              <br />
-              Duda pensou um instante. Pareceu um esforço enorme. Finalmente respondeu hesitante:
-              <br />
-              – Então vou ficar com trinta... trinta...
-              <br />
-              – Trinta e nove, anjinho – disse tia Petúnia.
-              <br />
-              – Ah. – Duda largou-se na cadeira e agarrou o pacote mais próximo. – Então, está bem.
-              Tio Válter deu uma risadinha.
-              <br />
-              – O baixinho quer tudo a que tem direito, igualzinho ao pai. É isso aí, garoto! – E arrepiou
-              os cabelos de Duda com os dedos.
-              <br />
-              Naquele instante o telefone tocou e tia Petúnia foi atendê-lo, enquanto Harry e
+              – No desastre de carro em que seus pais morreram – respondera ela. – E não faça
+              perguntas.
             </p>
           </Paragraph>
         }
         right={
           <Paragraph>
             <p>
-              tio Válter assistiam a Duda desembrulhar a bicicleta de corrida, a câmara de filmar, um aeromodelo com
-              controle remoto, dezesseis jogos de computador e um gravador de vídeos. Estava rasgando a
-              embalagem de um relógio de ouro quando tia Petúnia voltou do telefone parecendo ao mesmo
-              tempo zangada e preocupada.
-            </p>
-            <p>
-              – Más notícias, Válter. A Sra. Figg fraturou a perna. Não pode ficar com ele. – E indicou
-              Harry com a cabeça.
-            </p>
-            <p>
-              Duda boquiabriu-se de horror, mas o coração de Harry deu um salto. Todo ano, no
-              aniversário de Duda, os pais dele o levavam para passar o dia com um amiguinho em parques
-              de aventuras, lanchonetes ou no cinema. Todo ano deixavam Harry com a Sra. Figg, uma velha
-              maluca que morava ali perto. Harry detestava o lugar. A casa inteira cheirava a repolho e a
-              Sra. Figg lhe mostrava fotografias de todos os gatos que já tivera.
-            </p>
-            <p>
-              – E agora? – perguntou tia Petúnia, olhando furiosa para Harry como se ele tivesse
-              planejado tudo. Harry sabia que devia sentir pena da Sra. Figg que quebrara a perna, mas não
-              era fácil quando lembrava que ia passar um ano sem ter que olhar para o Tobias, o Néris, Seu
-              Patinhas e o Pompom outra vez.
+              Não faça perguntas – esta era a primeira regra para levar uma vida tranquila com os
+              Dursley.
               <br />
-              – Poderíamos ligar para a Guida – sugeriu tio Válter.
+              Tio Válter entrou na cozinha quando Harry estava virando o bacon.
+              <br />
+              – Penteie o cabelo! – mandou, à guisa de bom-dia.
+            </p>
+            <p>
+              Mais ou menos uma vez por semana, tio Válter espiava por cima do jornal e gritava que
+              Harry precisava cortar os cabelos. Harry deve ter feito mais cortes que o resto dos meninos de
+              sua classe somados, mas não fazia diferença, seus cabelos simplesmente cresciam daquele
+              jeito – para todo lado.
+            </p>
+            <p>
+              Harry estava fritando os ovos na altura em que Duda chegou à cozinha com a mãe. Duda se
+              parecia muito com o tio Válter. Tinha um rosto grande e rosado, pescoço curto, olhos azuis
+              pequenos e aguados e cabelos louros muito espessos e assentados na cabeça enorme e densa.
+              Tia Petúnia dizia com frequência que Duda parecia um anjinho – Harry dizia com frequência
+              que Duda parecia um porco de peruca.
+            </p>
+            <p>
+              Harry pôs os pratos de ovos com bacon na mesa, o que foi difícil porque não havia muito
+              espaço. Entrementes, Duda contava os presentes. Ficou desapontado.
+              <br />
+              – Trinta e seis – disse, erguendo os olhos para o pai e a mãe. – Dois a menos do
             </p>
           </Paragraph>
         }

@@ -10,61 +10,58 @@ function Page18() {
         left={
           <Paragraph>
             <p>
-              – ... roncando pelas ruas como loucos, os arruaceiros – disse, quando uma moto emparelhou
-              com eles.
+              – Estou-lhe
+              avisando, moleque, a primeira gracinha que fizer, a primeira, vai ficar preso naquele armário
+              até o Natal.
               <br />
-              – Tive um sonho com uma motocicleta – falou Harry, lembrando-se de repente. – Ela voava.
-              Tio Válter quase bateu no carro da frente. Virou-se para trás e gritou com Harry, seu rosto
-              parecendo uma beterraba gigante e bigoduda:
+              – Não vou fazer nada – disse Harry –, juro...
               <br />
-              – MOTOCICLETAS NÃO VOAM!
+              Mas tio Válter não acreditou nele. Ninguém nunca acreditava.
               <br />
-              Duda e Pedro deram risadinhas.
-              <br />
-              – Sei que não voam – respondeu Harry. – Foi só um sonho.
-              <br />
-              Mas desejou que não tivesse dito nada. Se havia uma coisa que os Dursley detestavam maisdo que as suas perguntas, era quando falava de coisas que faziam o que não deviam, não
-              interessava se era sonho ou desenho animado – pareciam pensar que ele poderia arranjar
-              ideias perigosas.
+              O problema era que sempre aconteciam coisas estranhas à volta de Harry e simplesmente
+              não adiantava dizer aos Dursley que não era sua culpa.
             </p>
             <p>
-              Era um sábado muito ensolarado e o zoo estava cheio de famílias. Os Dursley compraram
-              grandes sorvetes de chocolate para Duda e Pedro à entrada e, então, porque a mulher
-              sorridente na carrocinha perguntara o que Harry ia querer antes que pudessem afastá-lo
-              depressa dali, eles lhe compraram um picolé barato de limão. Não era ruim, Harry pensou,
-              lambendo-o enquanto observavam um gorila que coçava a cabeça e se parecia demais com
-              Duda,
+              Uma vez, tia Petúnia, cansada de ver Harry voltar do barbeiro como se não tivesse estado
+              lá, apanhara uma tesoura de cozinha e cortara o cabelo dele tão curto que o deixara quase
+              careca, exceto por uma franja, que ela deixou “para esconder aquela cicatriz horrorosa”. Duda
+              morrera de rir de Harry, que passou a noite acordado imaginando o que seria a escola no dia
+              seguinte, onde já riam dele por causa das roupas folgadas e dos óculos emendados com fita
+              adesiva. Na manhã seguinte, porém, quando se levantou, os cabelos estavam exatamente como
+              eram antes de tia Petúnia cortá-los. Tinham-no deixado preso uma semana no armário por
+              causa disto, apesar de sua tentativa de explicar que não saberia explicar como é que os
+              cabelos tinham crescido tão depressa.
+            </p>
+            <p>
+              Outra vez, tia Petúnia tentara obrigá-lo a vestir um macacão velho de Duda (marrom com
+              pompons cor de laranja). Quanto mais tentava enfiá-lo pela
             </p>
           </Paragraph>
         }
         right={
           <Paragraph>
             <p>
-              exceto pelos cabelos que não eram louros.
+              cabeça dele, tanto menor o macacão ficava, até que finalmente parecia feito para um fantochinho de dedo, e com certeza
+              não ia servir para Harry. Tia Petúnia concluiu que devia ter encolhido na lavagem e Harry, para seu grande alívio, não foi castigado.
             </p>
             <p>
-              Harry passou a melhor manhã que já tivera em muito tempo. Cuidou de andar um pouco
-              afastado dos Dursley de modo que Duda e Pedro, que ali pela hora do almoço estavam
-              começando a se chatear com os bichos, não recaíssem no seu passatempo favorito de bater no
-              primo. Almoçaram no restaurante do zoo e quando Duda teve um acesso de raiva porque seu
-              sorvetão não era bastante grande, tio Válter comprou-lhe outro e deixou Harry terminar o
-              primeiro.
+              Por outro lado, ele se metera numa grande encrenca quando o encontraram no telhado da
+              cozinha da escola. A turma de Duda o estava perseguindo, como sempre, e tanto para surpresa
+              de Harry quanto dos outros, ele apareceu sentado na chaminé. Os Dursley receberam uma
+              carta muito zangada da diretora de Harry, contando que Harry andara escalando os prédios da
+              escola. Mas só o que tentara fazer (conforme gritou para tio Válter através da porta trancada
+              do armário) fora saltar para trás das grandes latas de lixo à porta da cozinha. Harry supunha
+              que o vento devia tê-lo apanhado na hora em que saltou.
             </p>
             <p>
-              Depois Harry achou que devia ter adivinhado que estava bom demais para durar muito
-              tempo.
+              Mas hoje nada ia dar errado. Valia até a pena estar em companhia de Duda e Pedro para
+              passar o dia em outro lugar que não fosse a escola, o armário, ou a sala com cheiro de repolho
+              da Sra. Figg.
             </p>
             <p>
-              Terminado o almoço, foram visitar o alojamento dos répteis. Era fresco e escuro ali, com
-              quadrados iluminados ao longo das paredes. Por trás dos vidros, rastejavam e deslizavam em
-              pedaços de pau e em pedras todos os tipos de cobras e lagartos. Duda e Pedro queriam ver as
-              enormes cobras venenosas e as grossas pitones que esmagavam um homem. Duda logo
-              encontrou a maior cobra que havia. Poderia dar duas voltas no carro de tio Válter e amassá-lo
-              até reduzi-lo ao tamanho de uma lata de lixo – mas naquela hora ela não estava disposta a
-              fazer nada. Na realidade, estava dormindo a sono solto.
-            </p>
-            <p>
-              Duda parou, o nariz comprimido contra o vidro, observando as espirais
+              Enquanto dirigia, tio Válter se queixava à tia Petúnia. Ele gostava de se queixar de tudo:
+              das pessoas no trabalho, de Harry, do conselho, de Harry, o banco e Harry eram seus dois
+              assuntos preferidos. Esta manhã eram as motocicletas.
             </p>
           </Paragraph>
         }

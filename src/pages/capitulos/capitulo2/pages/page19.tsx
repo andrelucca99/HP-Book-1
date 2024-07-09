@@ -10,65 +10,61 @@ function Page19() {
         left={
           <Paragraph>
             <p>
-              marrons e reluzentes.
+              – ... roncando pelas ruas como loucos, os arruaceiros – disse, quando uma moto emparelhou
+              com eles.
               <br />
-              – Faz ela se mexer – choramingou para o pai. Tio Válter bateu no vidro, mas a cobra não se
-              mexeu.
+              – Tive um sonho com uma motocicleta – falou Harry, lembrando-se de repente. – Ela voava.
+              Tio Válter quase bateu no carro da frente. Virou-se para trás e gritou com Harry, seu rosto
+              parecendo uma beterraba gigante e bigoduda:
               <br />
-              – Faz outra vez – mandou Duda. Tio Válter bateu no vidro com os nós dos dedos, mas a
-              cobra continuou dormindo.
+              – MOTOCICLETAS NÃO VOAM!
               <br />
-              – Que chato – queixou-se Duda. E saiu arrastando os pés.
+              Duda e Pedro deram risadinhas.
+              <br />
+              – Sei que não voam – respondeu Harry. – Foi só um sonho.
+              <br />
+              Mas desejou que não tivesse dito nada. Se havia uma coisa que os Dursley detestavam maisdo que as suas perguntas, era quando falava de coisas que faziam o que não deviam, não
+              interessava se era sonho ou desenho animado – pareciam pensar que ele poderia arranjar
+              ideias perigosas.
             </p>
             <p>
-              Harry veio se postar na frente do tanque e estudou a cobra com atenção. Não se admiraria
-              se a própria cobra morresse de tédio – não tinha companhia a não ser aquela gente idiota que
-              batucava no vidro, tentando incomodá-la o dia inteiro. Era pior do que ter um armário por
-              quarto, onde a única visita era a tia Petúnia esmurrando a porta para acordá-lo, mas ao menos
-              ele podia visitar o resto da casa.
-            </p>
-            <p>
-              A cobra inesperadamente abriu os olhos, que pareciam contas. Devagarinho, muito
-              devagarinho, levantou a cabeça até seus olhos chegarem ao nível dos de Harry.
-              <br />
-              E piscou.
-            </p>
-            <p>
-              Harry arregalou os olhos. E olhou depressa a toda volta para ver se havia alguém olhando.
-              Não havia. E retribuiu o olhar da cobra, piscando também.
+              Era um sábado muito ensolarado e o zoo estava cheio de famílias. Os Dursley compraram
+              grandes sorvetes de chocolate para Duda e Pedro à entrada e, então, porque a mulher
+              sorridente na carrocinha perguntara o que Harry ia querer antes que pudessem afastá-lo
+              depressa dali, eles lhe compraram um picolé barato de limão. Não era ruim, Harry pensou,
+              lambendo-o enquanto observavam um gorila que coçava a cabeça e se parecia demais com
+              Duda,
             </p>
           </Paragraph>
         }
         right={
           <Paragraph>
             <p>
-              A cobra acenou com a cabeça na direção de tio Válter e de Duda, depois levantou os olhos
-              para o teto. Lançou um olhar a Harry que dizia com todas as letras:
-              <br />
-              – Isso é o que me acontece o tempo todo.
-              <br />
-              – Eu sei – murmurou Harry pelo vidro, embora não tivesse muita certeza se a cobra poderia
-              ouvi-lo –, deve ser bem chato.
-              <br />
-              A cobra concordou com um aceno de cabeça enfático.
-              <br />
-              – Mas de onde é que você veio? – perguntou Harry.
-              <br />
-              A cobra apontou com o rabo uma placa próxima ao vidro. Harry espiou.
-              <br />
-              Boa Constrictor, Brasil.
-              <br />
-              – Era bom lá?
-              <br />
-              A jiboia apontou novamente a placa com o rabo e Harry leu: Este espécime nasceu em
-              cativeiro.
-              <br />
-              – Ah, entendo, então você nunca esteve no Brasil?
-              <br />
-              A cobra sacudiu a cabeça, mas um grito ensurdecedor atrás de Harry fez os dois pularem:
-              <br />
-              – DUDA! SR. DURSLEY! VENHAM VER ESSA COBRA! VOCÊS NÃO VÃO ACREDITAR NO QUE ESTÁ
-              FAZENDO!
+              exceto pelos cabelos que não eram louros.
+            </p>
+            <p>
+              Harry passou a melhor manhã que já tivera em muito tempo. Cuidou de andar um pouco
+              afastado dos Dursley de modo que Duda e Pedro, que ali pela hora do almoço estavam
+              começando a se chatear com os bichos, não recaíssem no seu passatempo favorito de bater no
+              primo. Almoçaram no restaurante do zoo e quando Duda teve um acesso de raiva porque seu
+              sorvetão não era bastante grande, tio Válter comprou-lhe outro e deixou Harry terminar o
+              primeiro.
+            </p>
+            <p>
+              Depois Harry achou que devia ter adivinhado que estava bom demais para durar muito
+              tempo.
+            </p>
+            <p>
+              Terminado o almoço, foram visitar o alojamento dos répteis. Era fresco e escuro ali, com
+              quadrados iluminados ao longo das paredes. Por trás dos vidros, rastejavam e deslizavam em
+              pedaços de pau e em pedras todos os tipos de cobras e lagartos. Duda e Pedro queriam ver as
+              enormes cobras venenosas e as grossas pitones que esmagavam um homem. Duda logo
+              encontrou a maior cobra que havia. Poderia dar duas voltas no carro de tio Válter e amassá-lo
+              até reduzi-lo ao tamanho de uma lata de lixo – mas naquela hora ela não estava disposta a
+              fazer nada. Na realidade, estava dormindo a sono solto.
+            </p>
+            <p>
+              Duda parou, o nariz comprimido contra o vidro, observando as espirais
             </p>
           </Paragraph>
         }

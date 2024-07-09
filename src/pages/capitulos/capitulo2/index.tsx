@@ -17,7 +17,7 @@ function Capitulo2() {
           <Title title="- Capítulo 2 -" subTitle="O vidro que sumiu" />
           }
       />
-      <Button rota="/cap2/page13" />
+      <Button rota="/cap2/page14" />
     </div>
   );
 }

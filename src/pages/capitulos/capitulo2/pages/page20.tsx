@@ -10,61 +10,65 @@ function Page20() {
         left={
           <Paragraph>
             <p>
-              Duda veio bamboleando até onde o amigo estava o mais depressa que pôde.
+              marrons e reluzentes.
               <br />
-              – Cai fora – falou dando um soco nas costelas de Harry. Apanhado de surpresa, Harry caiu
-              com força no chão de concreto. O que se passou em seguida aconteceu tão depressa que
-              ninguém viu como foi: num segundo, Pedro e Duda estavam encostados no vidro, no segundo
-              seguinte, estavam saltando para trás soltando uivos de terror.
+              – Faz ela se mexer – choramingou para o pai. Tio Válter bateu no vidro, mas a cobra não se
+              mexeu.
+              <br />
+              – Faz outra vez – mandou Duda. Tio Válter bateu no vidro com os nós dos dedos, mas a
+              cobra continuou dormindo.
+              <br />
+              – Que chato – queixou-se Duda. E saiu arrastando os pés.
             </p>
             <p>
-              Harry sentou-se e parou de respirar: o vidro da frente do tanque da jiboia tinha sumido. A
-              grande cobra se desenrolou depressa e escorregou pelo chão – as pessoas no alojamento dos
-              répteis gritaram e começaram a correr para as saídas.
+              Harry veio se postar na frente do tanque e estudou a cobra com atenção. Não se admiraria
+              se a própria cobra morresse de tédio – não tinha companhia a não ser aquela gente idiota que
+              batucava no vidro, tentando incomodá-la o dia inteiro. Era pior do que ter um armário por
+              quarto, onde a única visita era a tia Petúnia esmurrando a porta para acordá-lo, mas ao menos
+              ele podia visitar o resto da casa.
             </p>
             <p>
-              Quando a cobra passou rápido por ele, Harry poderia jurar que uma voz baixa e sibilante
-              tinha dito: “Brasil, aqui vou eu... Obrigada, amigo.”
+              A cobra inesperadamente abriu os olhos, que pareciam contas. Devagarinho, muito
+              devagarinho, levantou a cabeça até seus olhos chegarem ao nível dos de Harry.
               <br />
-              O zelador do alojamento dos répteis ficou em estado de choque.
-              <br />
-              – Mas o vidro – ele não parava de repetir –, para onde foi o vidro?
+              E piscou.
             </p>
             <p>
-              O diretor do zoo em pessoa preparou uma xícara de chá forte para tia Petúnia enquanto se
-              desculpava mil vezes. Pedro e Duda só conseguiam balbuciar. Pelo que Harry vira, a cobra
-              não fizera nada a não ser fingir abocanhar os calcanhares deles quando passou, mas quando
-              chegaram finalmente ao carro
+              Harry arregalou os olhos. E olhou depressa a toda volta para ver se havia alguém olhando.
+              Não havia. E retribuiu o olhar da cobra, piscando também.
             </p>
           </Paragraph>
         }
         right={
           <Paragraph>
             <p>
-              do tio Válter, Duda estava contando que a cobra quase lhe
-              arrancara a perna a dentadas, enquanto Pedro jurava que a cobra tentara apertá-lo até matar.
-              Mas o pior de tudo, pelo menos para Harry, foi Pedro ter se acalmado o suficiente para
-              perguntar:
-            </p>
-            <p>
-              – Harry estava conversando com ela, não estava, Harry?
+              A cobra acenou com a cabeça na direção de tio Válter e de Duda, depois levantou os olhos
+              para o teto. Lançou um olhar a Harry que dizia com todas as letras:
               <br />
-              Tio Válter esperou até Pedro estar longe da casa para brigar com Harry. Estava tão zangado
-              que mal podia falar. Conseguiu apenas dizer:
+              – Isso é o que me acontece o tempo todo.
               <br />
-              – Vá... armário... Harry... sem comida – antes de desmontar em uma cadeira e tia Petúnia ter
-              que correr para lhe servir uma boa dose de conhaque.
-            </p>
-            <p>
-              Muito mais tarde, deitado no seu armário, Harry desejou ter um relógio. Não sabia que horas
-              eram e não tinha certeza se os Dursley já estariam dormindo. Até que estivessem, ele não
-              poderia se arriscar a ir escondido até a cozinha buscar alguma coisa para comer.
-            </p>
-            <p>
-              Vivia com os Dursley havia quase dez anos, dez infelizes anos, desde que se lembrava,
-              desde que era bebê e seus pais tinham morrido naquele acidente de carro. Não conseguia se
-              lembrar de ter estado no carro quando os pais morreram. Às vezes, quando forçava a memóriadurante longas horas em seu armário, lembrava-se de uma estranha visão: um lampejo
-              ofuscante de luz
+              – Eu sei – murmurou Harry pelo vidro, embora não tivesse muita certeza se a cobra poderia
+              ouvi-lo –, deve ser bem chato.
+              <br />
+              A cobra concordou com um aceno de cabeça enfático.
+              <br />
+              – Mas de onde é que você veio? – perguntou Harry.
+              <br />
+              A cobra apontou com o rabo uma placa próxima ao vidro. Harry espiou.
+              <br />
+              Boa Constrictor, Brasil.
+              <br />
+              – Era bom lá?
+              <br />
+              A jiboia apontou novamente a placa com o rabo e Harry leu: Este espécime nasceu em
+              cativeiro.
+              <br />
+              – Ah, entendo, então você nunca esteve no Brasil?
+              <br />
+              A cobra sacudiu a cabeça, mas um grito ensurdecedor atrás de Harry fez os dois pularem:
+              <br />
+              – DUDA! SR. DURSLEY! VENHAM VER ESSA COBRA! VOCÊS NÃO VÃO ACREDITAR NO QUE ESTÁ
+              FAZENDO!
             </p>
           </Paragraph>
         }

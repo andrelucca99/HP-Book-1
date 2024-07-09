@@ -10,58 +10,62 @@ function Page16() {
         left={
           <Paragraph>
             <p>
-              – Não diga bobagem, Válter, ela detesta o menino.
+              que no ano passado.
               <br />
-              Com frequência, os Dursley falavam de Harry assim, como se ele não estivesse presente –
-              ou melhor, como se ele fosse alguma coisa muito desprezível que não conseguisse entendê-los,
-              como uma lesma.
+              – Querido, você não contou o presente de tia Guida, está aqui debaixo deste grandão do
+              papai e da mamãe, está vendo?
               <br />
-              – E aquela sua amiga, como é mesmo o nome dela, Ivone?
+              – Está bem, então são trinta e sete – respondeu Duda ficando vermelho. Harry, percebendo
+              que Duda estava preparando um enorme acesso de raiva, começou a engolir seu bacon o mais
+              depressa possível, caso o primo virasse a mesa.
               <br />
-              – Está passando férias em Majorca – respondeu Petúnia, com rispidez.
+              Tia Petúnia obviamente também sentiu o perigo, porque na mesma hora disse:
               <br />
-              – Vocês podiam me deixar aqui – arriscou Harry esperançoso (ele poderia assistir ao que
-              quisesse na televisão para variar e, quem sabe, até dar uma voltinha no computador de Duda).
-              Tia Petúnia parecia que tinha engolido um limão.
+              – E vamos comprar mais dois presentes para você quando sairmos hoje. Que tal, fofinho?
+              Mais dois presentes. Está bem assim?
               <br />
-              – E quando voltarmos, encontrar a casa destruída? – rosnou.
+              Duda pensou um instante. Pareceu um esforço enorme. Finalmente respondeu hesitante:
               <br />
-              – Não vou explodir a casa – prometeu Harry, mas os tios não estavam mais escutando.
+              – Então vou ficar com trinta... trinta...
               <br />
-              – Talvez pudéssemos levá-lo ao zoológico – disse tia Petúnia lentamente – e deixá-lo no
-              carro...
+              – Trinta e nove, anjinho – disse tia Petúnia.
               <br />
-              – O carro é novo. Não vou deixá-lo sentado no carro sozinho...
+              – Ah. – Duda largou-se na cadeira e agarrou o pacote mais próximo. – Então, está bem.
+              Tio Válter deu uma risadinha.
               <br />
-              Duda começou a chorar alto. Na realidade não estava chorando, fazia anos que não chorava
-              de verdade, mas sabia que se fizesse cara de choro e gritasse a
+              – O baixinho quer tudo a que tem direito, igualzinho ao pai. É isso aí, garoto! – E arrepiou
+              os cabelos de Duda com os dedos.
+              <br />
+              Naquele instante o telefone tocou e tia Petúnia foi atendê-lo, enquanto Harry e
             </p>
           </Paragraph>
         }
         right={
           <Paragraph>
             <p>
-              mãe lhe daria o que quisesse.
-              <br />
-              – Dudinha, querido, não chore, mamãe não vai deixar ele estragar o seu dia! – exclamou, abraçando-o.
-              <br />
-              – Não... quero... que... ele... vá! – Duda berrou entre grandes soluços fingidos. – Ele sempre
-              estraga tudo! – E lançou um riso maldoso por entre os braços da mãe.
-              <br />
-              Naquele instante a campainha tocou.
+              tio Válter assistiam a Duda desembrulhar a bicicleta de corrida, a câmara de filmar, um aeromodelo com
+              controle remoto, dezesseis jogos de computador e um gravador de vídeos. Estava rasgando a
+              embalagem de um relógio de ouro quando tia Petúnia voltou do telefone parecendo ao mesmo
+              tempo zangada e preocupada.
             </p>
             <p>
-              – Ah, meu Deus, são eles chegando! – disse tia Petúnia nervosa, e um minuto depois, o
-              melhor amigo de Duda, Pedro Polkiss, entrou acompanhado da mãe. Pedro era um menino
-              magricela, com cara de rato. Em geral era quem segurava para trás os braços dos garotos
-              enquanto Duda batia neles. Na mesma hora Duda parou de fingir que estava chorando.
+              – Más notícias, Válter. A Sra. Figg fraturou a perna. Não pode ficar com ele. – E indicou
+              Harry com a cabeça.
             </p>
             <p>
-              Meia hora depois, Harry, que não conseguia acreditar em sua sorte, estava sentado no banco
-              traseiro do carro dos Dursley, com Pedro e Duda, a caminho do jardim zoológico, pela
-              primeira vez na vida. O tio e a tia não tinham conseguido pensar no que fazer com ele, masantes de saírem, tio Válter puxara Harry para o lado.
+              Duda boquiabriu-se de horror, mas o coração de Harry deu um salto. Todo ano, no
+              aniversário de Duda, os pais dele o levavam para passar o dia com um amiguinho em parques
+              de aventuras, lanchonetes ou no cinema. Todo ano deixavam Harry com a Sra. Figg, uma velha
+              maluca que morava ali perto. Harry detestava o lugar. A casa inteira cheirava a repolho e a
+              Sra. Figg lhe mostrava fotografias de todos os gatos que já tivera.
+            </p>
+            <p>
+              – E agora? – perguntou tia Petúnia, olhando furiosa para Harry como se ele tivesse
+              planejado tudo. Harry sabia que devia sentir pena da Sra. Figg que quebrara a perna, mas não
+              era fácil quando lembrava que ia passar um ano sem ter que olhar para o Tobias, o Néris, Seu
+              Patinhas e o Pompom outra vez.
               <br />
-              – Estou-lhe avisando – disse, aproximando a cara grande e vermelha de Harry.
+              – Poderíamos ligar para a Guida – sugeriu tio Válter.
             </p>
           </Paragraph>
         }
