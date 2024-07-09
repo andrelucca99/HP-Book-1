@@ -6,11 +6,11 @@ import Sheet from '../../../../components/Sheet';
 import Button from '../../../../components/Button';
 import Paragraph from '../../../../components/Paragraph';
 import BackgroundPage from '../../../../components/BackgroundPage';
-import FotoHagrid from '../../../../assets/h4.jpg';
+import foto from '../assets/capa1.svg';
 
-function Page11() {
+function Page13() {
   const { paginas } = useContext(PagesContext);
-  const { left } = paginas.page11;
+  const { left } = paginas.page13;
 
   return (
     <BackgroundPage>
@@ -26,13 +26,13 @@ function Page11() {
         }
         right={
           <Paragraph>
-            <img className="w-full h-full" src={ FotoHagrid } alt="foto do Hagrid" />
+            <img className="w-full h-full" src={ foto } alt="teste" />
           </Paragraph>
         }
       />
-      <Button rota="/cap1/page12" />
+      <Button rota="/cap2" />
     </BackgroundPage>
   );
 }
 
-export default Page11;
+export default Page13;

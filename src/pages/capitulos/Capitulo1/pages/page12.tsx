@@ -9,7 +9,7 @@ import BackgroundPage from '../../../../components/BackgroundPage';
 
 function Page12() {
   const { paginas } = useContext(PagesContext);
-  const { left, right, imagem } = paginas.page12;
+  const { left, right } = paginas.page12;
 
   return (
     <BackgroundPage>
@@ -30,11 +30,10 @@ function Page12() {
                 <p key={ index }>{page}</p>
               ))
             }
-            <img className="w-full h-4/5" src={ imagem } alt="teste" />
           </Paragraph>
         }
       />
-      <Button rota="/cap2" />
+      <Button rota="/cap1/page13" />
     </BackgroundPage>
   );
 }

@@ -6,6 +6,7 @@ import Sheet from '../../../../components/Sheet';
 import Button from '../../../../components/Button';
 import Paragraph from '../../../../components/Paragraph';
 import BackgroundPage from '../../../../components/BackgroundPage';
+import fotoDumbledore from '../../../../assets/h3.jpg';
 
 function Page6() {
   const { paginas } = useContext(PagesContext);
@@ -21,6 +22,7 @@ function Page6() {
                 <p key={ index }>{page}</p>
               ))
             }
+            <img className="w-full max-h-96 mt-5" src={ fotoDumbledore } alt="colocar ilustração do Dumbledore" />
           </Paragraph>
         }
         right={
