@@ -10,7 +10,7 @@ function Capa() {
     >
       <div className="w-full h-full flex flex-col items-center p-6 justify-center gap-6 font-bold text-center">
         <h1 className="text-black text-5xl">Harry Potter e a Pedra Filosofal</h1>
-        <NextPageButton nextPage="/autora" />
+        <NextPageButton nextPage="/autora" name="Próximo" />
       </div>
     </div>
   );

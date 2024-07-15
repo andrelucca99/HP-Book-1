@@ -3,9 +3,10 @@ import { useNavigate } from 'react-router-dom';
 
 type Props = {
   nextPage: string;
+  name: string;
 };
 
-const NextPageButton: React.FC<Props> = ({ nextPage }) => {
+const NextPageButton: React.FC<Props> = ({ nextPage, name }) => {
   const navigate = useNavigate();
   const handleGoNext = () => {
     navigate(nextPage);
@@ -15,7 +16,7 @@ const NextPageButton: React.FC<Props> = ({ nextPage }) => {
       className="hover:bg-blue-600 hover:px-2 hover:text-white hover:rounded-md"
       onClick={ handleGoNext }
     >
-      Próximo
+      { name }
     </button>
   );
 };
