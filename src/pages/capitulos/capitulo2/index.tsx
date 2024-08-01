@@ -7,7 +7,7 @@ import Capa from '../../../assets/fundo.svg';
 
 function Capitulo2() {
   return (
-    <div className="w-full h-screen bg-blue-300 flex flex-col items-center justify-center mobile:py-3">
+    <div className="w-full h-screen bg-indigo-300 flex flex-col items-center justify-center mobile:py-3">
       <Outlet />
       <Sheet
         left={
