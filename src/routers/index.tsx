@@ -27,6 +27,21 @@ import Page20 from '../pages/capitulos/capitulo2/pages/page20';
 import Page21 from '../pages/capitulos/capitulo2/pages/page21';
 import Page22 from '../pages/capitulos/capitulo2/pages/page22';
 
+import Capitulo3 from '../pages/capitulos/capitulo3';
+import Page24 from '../pages/capitulos/capitulo3/pages/page24';
+import Page25 from '../pages/capitulos/capitulo3/pages/page25';
+import Page26 from '../pages/capitulos/capitulo3/pages/page26';
+import Page27 from '../pages/capitulos/capitulo3/pages/page27';
+import Page28 from '../pages/capitulos/capitulo3/pages/page28';
+import Page29 from '../pages/capitulos/capitulo3/pages/page29';
+import Page30 from '../pages/capitulos/capitulo3/pages/page30';
+import Page31 from '../pages/capitulos/capitulo3/pages/page31';
+import Page32 from '../pages/capitulos/capitulo3/pages/page32';
+import Page33 from '../pages/capitulos/capitulo3/pages/page33';
+import Page34 from '../pages/capitulos/capitulo3/pages/page34';
+import Page35 from '../pages/capitulos/capitulo3/pages/page35';
+import Page36 from '../pages/capitulos/capitulo3/pages/page36';
+
 import NotFound from '../pages/NotFound';
 
 export const router = createBrowserRouter([
@@ -142,6 +157,67 @@ export const router = createBrowserRouter([
       {
         path: 'page22',
         element: <Page22 />,
+      },
+    ],
+  },
+  {
+    path: 'cap3',
+    children: [
+      {
+        path: '',
+        element: <Capitulo3 />,
+      },
+      {
+        path: 'page24',
+        element: <Page24 />,
+      },
+      {
+        path: 'page25',
+        element: <Page25 />,
+      },
+      {
+        path: 'page26',
+        element: <Page26 />,
+      },
+      {
+        path: 'page27',
+        element: <Page27 />,
+      },
+      {
+        path: 'page28',
+        element: <Page28 />,
+      },
+      {
+        path: 'page29',
+        element: <Page29 />,
+      },
+      {
+        path: 'page30',
+        element: <Page30 />,
+      },
+      {
+        path: 'page31',
+        element: <Page31 />,
+      },
+      {
+        path: 'page32',
+        element: <Page32 />,
+      },
+      {
+        path: 'page33',
+        element: <Page33 />,
+      },
+      {
+        path: 'page34',
+        element: <Page34 />,
+      },
+      {
+        path: 'page35',
+        element: <Page35 />,
+      },
+      {
+        path: 'page36',
+        element: <Page36 />,
       },
     ],
   },

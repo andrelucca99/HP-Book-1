@@ -1,15 +1,15 @@
 import { useContext } from 'react';
-
+import BackgroundPage from '../../../../components/BackgroundPage';
+import Sheet from '../../../../components/Sheet';
+import Paragraph from '../../../../components/Paragraph';
+import Button from '../../../../components/Button';
 import PagesContext from '../../../../context/PagesContext';
 
-import Sheet from '../../../../components/Sheet';
-import Button from '../../../../components/Button';
-import Paragraph from '../../../../components/Paragraph';
-import BackgroundPage from '../../../../components/BackgroundPage';
+import foto from '../../../../assets/h3.jpg';
 
-function Page22() {
+function Page26() {
   const { paginas } = useContext(PagesContext);
-  const { left, right } = paginas.page22;
+  const { left, right } = paginas.page25;
 
   return (
     <BackgroundPage>
@@ -21,6 +21,8 @@ function Page22() {
                 <p key={ index }>{page}</p>
               ))
             }
+            <img className="w-full h-64" src={ foto } alt="teste" />
+            <p>Colocar uma imagem da carta</p>
           </Paragraph>
         }
         right={
@@ -33,9 +35,9 @@ function Page22() {
           </Paragraph>
         }
       />
-      <Button rota="/cap3" />
+      <Button rota="/cap3/page27" />
     </BackgroundPage>
   );
 }
 
-export default Page22;
+export default Page26;
