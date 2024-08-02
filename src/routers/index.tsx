@@ -8,6 +8,7 @@ import { Capitulo1, Capitulo2, Capitulo3, Capitulo4, Capitulo5, Capitulo6, Capit
 import { Page1, Page2, Page3, Page4, Page5, Page6, Page7, Page8, Page9, Page10, Page11, Page12, Page13 } from '../pages/capitulos/Capitulo1/pages';
 import { Page14, Page15, Page16, Page17, Page18, Page19, Page20, Page21, Page22 } from '../pages/capitulos/capitulo2/pages';
 import { Page24, Page25, Page26, Page27, Page28, Page29, Page30, Page31, Page32, Page33 } from '../pages/capitulos/capitulo3/pages';
+import { Page35, Page36, Page37, Page38, Page39, Page40, Page41, Page42, Page43, Page44 } from '../pages/capitulos/capitulo4/pages';
 
 import NotFound from '../pages/NotFound';
 
@@ -182,6 +183,46 @@ export const router = createBrowserRouter([
       {
         path: '',
         element: <Capitulo4 />,
+      },
+      {
+        path: 'page35',
+        element: <Page35 />,
+      },
+      {
+        path: 'page36',
+        element: <Page36 />,
+      },
+      {
+        path: 'page37',
+        element: <Page37 />,
+      },
+      {
+        path: 'page38',
+        element: <Page38 />,
+      },
+      {
+        path: 'page39',
+        element: <Page39 />,
+      },
+      {
+        path: 'page40',
+        element: <Page40 />,
+      },
+      {
+        path: 'page41',
+        element: <Page41 />,
+      },
+      {
+        path: 'page42',
+        element: <Page42 />,
+      },
+      {
+        path: 'page43',
+        element: <Page43 />,
+      },
+      {
+        path: 'page44',
+        element: <Page44 />,
       },
     ],
   },

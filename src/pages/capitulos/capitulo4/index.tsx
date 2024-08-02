@@ -7,7 +7,7 @@ function Capitulo4() {
       capa={ Capa }
       title="- Capítulo 4 -"
       subTitle="O guardião das chaves"
-      rota="/cap4/page"
+      rota="/cap4/page35"
     />
   );
 }
