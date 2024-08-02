@@ -1,11 +1,10 @@
+/* eslint-disable max-lines */
 /* eslint-disable max-len */
 import { createBrowserRouter } from 'react-router-dom';
 import Capa from '../pages/Capa';
 import Autora from '../pages/Autora';
-import Capitulo1 from '../pages/capitulos/Capitulo1';
-import Capitulo2 from '../pages/capitulos/capitulo2';
-import Capitulo3 from '../pages/capitulos/capitulo3';
 
+import { Capitulo1, Capitulo2, Capitulo3, Capitulo4, Capitulo5, Capitulo6, Capitulo7, Capitulo8, Capitulo9, Capitulo10, Capitulo11, Capitulo12, Capitulo13, Capitulo14, Capitulo15, Capitulo16, Capitulo17 } from '../pages/capitulos';
 import { Page1, Page2, Page3, Page4, Page5, Page6, Page7, Page8, Page9, Page10, Page11, Page12, Page13 } from '../pages/capitulos/Capitulo1/pages';
 import { Page14, Page15, Page16, Page17, Page18, Page19, Page20, Page21, Page22 } from '../pages/capitulos/capitulo2/pages';
 import { Page24, Page25, Page26, Page27, Page28, Page29, Page30, Page31, Page32, Page33 } from '../pages/capitulos/capitulo3/pages';
@@ -174,6 +173,132 @@ export const router = createBrowserRouter([
       {
         path: 'page33',
         element: <Page33 />,
+      },
+    ],
+  },
+  {
+    path: 'cap4',
+    children: [
+      {
+        path: '',
+        element: <Capitulo4 />,
+      },
+    ],
+  },
+  {
+    path: 'cap5',
+    children: [
+      {
+        path: '',
+        element: <Capitulo5 />,
+      },
+    ],
+  },
+  {
+    path: 'cap6',
+    children: [
+      {
+        path: '',
+        element: <Capitulo6 />,
+      },
+    ],
+  },
+  {
+    path: 'cap7',
+    children: [
+      {
+        path: '',
+        element: <Capitulo7 />,
+      },
+    ],
+  },
+  {
+    path: 'cap8',
+    children: [
+      {
+        path: '',
+        element: <Capitulo8 />,
+      },
+    ],
+  },
+  {
+    path: 'cap9',
+    children: [
+      {
+        path: '',
+        element: <Capitulo9 />,
+      },
+    ],
+  },
+  {
+    path: 'cap10',
+    children: [
+      {
+        path: '',
+        element: <Capitulo10 />,
+      },
+    ],
+  },
+  {
+    path: 'cap11',
+    children: [
+      {
+        path: '',
+        element: <Capitulo11 />,
+      },
+    ],
+  },
+  {
+    path: 'cap12',
+    children: [
+      {
+        path: '',
+        element: <Capitulo12 />,
+      },
+    ],
+  },
+  {
+    path: 'cap13',
+    children: [
+      {
+        path: '',
+        element: <Capitulo13 />,
+      },
+    ],
+  },
+  {
+    path: 'cap14',
+    children: [
+      {
+        path: '',
+        element: <Capitulo14 />,
+      },
+    ],
+  },
+  {
+    path: 'cap15',
+    children: [
+      {
+        path: '',
+        element: <Capitulo15 />,
+      },
+    ],
+  },
+  {
+    path: 'cap16',
+    children: [
+      {
+        path: '',
+        element: <Capitulo16 />,
+      },
+    ],
+  },
+  {
+    path: 'cap17',
+    children: [
+      {
+        path: '',
+        element: <Capitulo17 />,
       },
     ],
   },
