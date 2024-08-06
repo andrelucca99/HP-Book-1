@@ -7,7 +7,7 @@ function Capitulo5() {
       capa={ Capa }
       title="- Capítulo 5 -"
       subTitle="O Beco Diagonal"
-      rota="/cap5/page"
+      rota="/cap5/page45"
     />
   );
 }

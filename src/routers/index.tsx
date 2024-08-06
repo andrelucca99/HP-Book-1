@@ -9,6 +9,7 @@ import { Page1, Page2, Page3, Page4, Page5, Page6, Page7, Page8, Page9, Page10, 
 import { Page14, Page15, Page16, Page17, Page18, Page19, Page20, Page21, Page22 } from '../pages/capitulos/capitulo2/pages';
 import { Page24, Page25, Page26, Page27, Page28, Page29, Page30, Page31, Page32, Page33 } from '../pages/capitulos/capitulo3/pages';
 import { Page35, Page36, Page37, Page38, Page39, Page40, Page41, Page42, Page43, Page44 } from '../pages/capitulos/capitulo4/pages';
+import { Page45, Page46, Page47, Page48, Page49, Page50, Page51, Page52, Page53, Page54, Page55, Page56, Page57, Page58, Page59, Page60, Page61, Page62 } from '../pages/capitulos/capitulo5/pages';
 
 import NotFound from '../pages/NotFound';
 
@@ -232,6 +233,78 @@ export const router = createBrowserRouter([
       {
         path: '',
         element: <Capitulo5 />,
+      },
+      {
+        path: 'page45',
+        element: <Page45 />,
+      },
+      {
+        path: 'page46',
+        element: <Page46 />,
+      },
+      {
+        path: 'page47',
+        element: <Page47 />,
+      },
+      {
+        path: 'page48',
+        element: <Page48 />,
+      },
+      {
+        path: 'page49',
+        element: <Page49 />,
+      },
+      {
+        path: 'page50',
+        element: <Page50 />,
+      },
+      {
+        path: 'page51',
+        element: <Page51 />,
+      },
+      {
+        path: 'page52',
+        element: <Page52 />,
+      },
+      {
+        path: 'page53',
+        element: <Page53 />,
+      },
+      {
+        path: 'page54',
+        element: <Page54 />,
+      },
+      {
+        path: 'page55',
+        element: <Page55 />,
+      },
+      {
+        path: 'page56',
+        element: <Page56 />,
+      },
+      {
+        path: 'page57',
+        element: <Page57 />,
+      },
+      {
+        path: 'page58',
+        element: <Page58 />,
+      },
+      {
+        path: 'page59',
+        element: <Page59 />,
+      },
+      {
+        path: 'page60',
+        element: <Page60 />,
+      },
+      {
+        path: 'page61',
+        element: <Page61 />,
+      },
+      {
+        path: 'page62',
+        element: <Page62 />,
       },
     ],
   },
