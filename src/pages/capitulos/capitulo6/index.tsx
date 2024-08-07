@@ -7,7 +7,7 @@ function Capitulo6() {
       capa={ Capa }
       title="- Capítulo 6 -"
       subTitle="O embarque na plataforma nove e meia"
-      rota="/cap6/page"
+      rota="/cap6/page63"
     />
   );
 }
