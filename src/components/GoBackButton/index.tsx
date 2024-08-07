@@ -1,4 +1,5 @@
 import { useNavigate } from 'react-router-dom';
+import IconArrowBack from '../../assets/arrow_back.svg';
 
 function GoBackButton() {
   const navigate = useNavigate();
@@ -8,7 +9,15 @@ function GoBackButton() {
   };
 
   return (
-    <button className="hover:bg-blue-600 hover:px-2 hover:text-white hover:rounded-md" onClick={ handleGoBack }>Voltar</button>
+    <button
+      onClick={ handleGoBack }
+    >
+      <img
+        className="mobile:h-6 tablet:h-8 laptop:h-10"
+        src={ IconArrowBack }
+        alt="Ícone de seta para trás"
+      />
+    </button>
   );
 }
 

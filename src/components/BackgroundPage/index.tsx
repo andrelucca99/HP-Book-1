@@ -6,7 +6,7 @@ type Props = {
 // eslint-disable-next-line react/function-component-definition
 const BackgroundPage: React.FC<Props> = ({ children }) => {
   return (
-    <div className="w-full mobile:h-full desktop:h-screen bg-indigo-300 flex flex-col items-center justify-center mobile:py-3">
+    <div className="w-full mobile:h-full tablet:h-screen laptop:h-full desktop:h-screen bg-indigo-300 flex flex-col items-center justify-center mobile:py-3">
       { children }
     </div>
   );
