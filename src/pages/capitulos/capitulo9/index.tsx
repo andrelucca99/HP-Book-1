@@ -7,7 +7,7 @@ function Capitulo9() {
       capa={ Capa }
       title="- Capítulo 9 -"
       subTitle="O duelo à meia-noite"
-      rota="/cap9/page"
+      rota="/cap9/page100"
     />
   );
 }
