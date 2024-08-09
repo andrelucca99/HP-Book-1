@@ -8,7 +8,7 @@ type Props = {
 
 const Button: React.FC<Props> = ({ rota }) => {
   return (
-    <div className="w-full px-20 flex mobile:justify-around laptop:justify-between mt-5 mobile:static laptop:absolute">
+    <div className="z-0 w-full px-20 flex mobile:justify-around laptop:justify-between mt-5 mobile:static laptop:absolute">
       <GoBackButton />
       <NextPageButton nextPage={ rota } />
     </div>

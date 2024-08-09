@@ -35,7 +35,7 @@ export const router = createBrowserRouter([
         element: <Capitulo1 />,
       },
       {
-        path: 'pagina//1',
+        path: 'pagina/1',
         element: <Page1 />,
       },
       {

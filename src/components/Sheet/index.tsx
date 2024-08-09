@@ -8,7 +8,7 @@ type Props = {
 const Sheet: React.FC<Props> = ({ left, right }) => {
   return (
     <div
-      className="mobile:w-11/12 mobile:h-full tablet:w-4/5 laptop:h-lvh desktop:h-screen mobile:bg-gray-100 laptop:bg-gray-300 border-2 rounded-md flex items-center justify-center mobile:flex-col laptop:flex-row laptop:mt-5 mobile:p-0 laptop:pl-0 laptop:pr-2 laptop:pt-0 laptop:pb-2"
+      className="z-10 mobile:w-11/12 mobile:h-full tablet:w-4/5 laptop:h-lvh desktop:h-screen mobile:bg-gray-100 laptop:bg-gray-300 border-2 rounded-md flex items-center justify-center mobile:flex-col laptop:flex-row laptop:mt-5 mobile:p-0 laptop:pl-0 laptop:pr-2 laptop:pt-0 laptop:pb-2"
     >
       <div
         className="w-full h-full laptop:border-r-2 bg-gray-100 laptop:border-gray-300 font-serif text-base text-gray-800 leading-5 p-2 rounded-md flex"
