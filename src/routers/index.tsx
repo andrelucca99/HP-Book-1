@@ -447,42 +447,42 @@ export const router = createBrowserRouter([
     ],
   },
   {
-    path: 'cap8',
+    path: 'capitulo/8',
     children: [
       {
         path: '',
         element: <Capitulo8 />,
       },
       {
-        path: 'page92',
+        path: 'pagina/92',
         element: <Page92 />,
       },
       {
-        path: 'page93',
+        path: 'pagina/93',
         element: <Page93 />,
       },
       {
-        path: 'page94',
+        path: 'pagina/94',
         element: <Page94 />,
       },
       {
-        path: 'page95',
+        path: 'pagina/95',
         element: <Page95 />,
       },
       {
-        path: 'page96',
+        path: 'pagina/96',
         element: <Page96 />,
       },
       {
-        path: 'page97',
+        path: 'pagina/97',
         element: <Page97 />,
       },
       {
-        path: 'page98',
+        path: 'pagina/98',
         element: <Page98 />,
       },
       {
-        path: 'page99',
+        path: 'pagina/99',
         element: <Page99 />,
       },
     ],

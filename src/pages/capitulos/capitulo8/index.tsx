@@ -7,7 +7,7 @@ function Capitulo8() {
       capa={ Capa }
       title="- Capítulo 8 -"
       subTitle="O mestre das poções"
-      rota="/cap8/page92"
+      rota="/capitulo/8/pagina/92"
     />
   );
 }
