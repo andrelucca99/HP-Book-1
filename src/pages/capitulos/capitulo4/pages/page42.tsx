@@ -31,7 +31,7 @@ function Page42() {
           </Paragraph>
         }
       />
-      <Button rota="/cap4/page43" />
+      <Button rota="/capitulo/4/pagina/43" />
     </BackgroundPage>
   );
 }
