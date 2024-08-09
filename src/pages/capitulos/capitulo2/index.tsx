@@ -7,7 +7,7 @@ function Capitulo2() {
       capa={ Capa }
       title="- Capítulo 2 -"
       subTitle="O vidro que sumiu"
-      rota="/cap2/page14"
+      rota="/capitulo/2/pagina/14"
     />
   );
 }
