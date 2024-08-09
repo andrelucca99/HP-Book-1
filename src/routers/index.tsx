@@ -35,7 +35,7 @@ export const router = createBrowserRouter([
         element: <Capitulo1 />,
       },
       {
-        path: 'pagina/1',
+        path: 'pagina//1',
         element: <Page1 />,
       },
       {
@@ -128,56 +128,56 @@ export const router = createBrowserRouter([
         element: <Page21 />,
       },
       {
-        path: 'ppagina/22',
+        path: 'pagina/22',
         element: <Page22 />,
       },
     ],
   },
   {
-    path: 'cap3',
+    path: 'capitulo/3',
     children: [
       {
         path: '',
         element: <Capitulo3 />,
       },
       {
-        path: 'page24',
+        path: 'pagina/24',
         element: <Page24 />,
       },
       {
-        path: 'page25',
+        path: 'pagina/25',
         element: <Page25 />,
       },
       {
-        path: 'page26',
+        path: 'pagina/26',
         element: <Page26 />,
       },
       {
-        path: 'page27',
+        path: 'pagina/27',
         element: <Page27 />,
       },
       {
-        path: 'page28',
+        path: 'pagina/28',
         element: <Page28 />,
       },
       {
-        path: 'page29',
+        path: 'pagina/29',
         element: <Page29 />,
       },
       {
-        path: 'page30',
+        path: 'pagina/30',
         element: <Page30 />,
       },
       {
-        path: 'page31',
+        path: 'pagina/31',
         element: <Page31 />,
       },
       {
-        path: 'page32',
+        path: 'pagina/32',
         element: <Page32 />,
       },
       {
-        path: 'page33',
+        path: 'pagina/33',
         element: <Page33 />,
       },
     ],

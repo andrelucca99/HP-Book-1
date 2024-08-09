@@ -7,7 +7,7 @@ function Capitulo3() {
       capa={ Capa }
       title="- Capítulo 3 -"
       subTitle="As cartas de ninguém"
-      rota="/cap3/page24"
+      rota="/capitulo/3/pagina/24"
     />
   );
 }
