@@ -313,78 +313,78 @@ export const router = createBrowserRouter([
     ],
   },
   {
-    path: 'cap6',
+    path: 'capitulo/6',
     children: [
       {
         path: '',
         element: <Capitulo6 />,
       },
       {
-        path: 'page63',
+        path: 'pagina/63',
         element: <Page63 />,
       },
       {
-        path: 'page64',
+        path: 'pagina/64',
         element: <Page64 />,
       },
       {
-        path: 'page65',
+        path: 'pagina/65',
         element: <Page65 />,
       },
       {
-        path: 'page66',
+        path: 'pagina/66',
         element: <Page66 />,
       },
       {
-        path: 'page67',
+        path: 'pagina/67',
         element: <Page67 />,
       },
       {
-        path: 'page68',
+        path: 'pagina/68',
         element: <Page68 />,
       },
       {
-        path: 'page69',
+        path: 'pagina/69',
         element: <Page69 />,
       },
       {
-        path: 'page70',
+        path: 'pagina/70',
         element: <Page70 />,
       },
       {
-        path: 'page71',
+        path: 'pagina/71',
         element: <Page71 />,
       },
       {
-        path: 'page72',
+        path: 'pagina/72',
         element: <Page72 />,
       },
       {
-        path: 'page73',
+        path: 'pagina/73',
         element: <Page73 />,
       },
       {
-        path: 'page74',
+        path: 'pagina/74',
         element: <Page74 />,
       },
       {
-        path: 'page75',
+        path: 'pagina/75',
         element: <Page75 />,
       },
       {
-        path: 'page76',
+        path: 'pagina/76',
         element: <Page76 />,
       },
       {
-        path: 'page77',
+        path: 'pagina/77',
         element: <Page77 />,
       },
       {
-        path: 'page78',
+        path: 'pagina/78',
         element: <Page78 />,
       },
       {
-        path: 'page79',
+        path: 'pagina/79',
         element: <Page79 />,
       },
     ],
