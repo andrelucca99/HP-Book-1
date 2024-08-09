@@ -30,7 +30,7 @@ function Autora() {
           </div>
 }
       />
-      <Button rota="/cap1" />
+      <Button rota="/capitulo/1" />
     </BackgroundPage>
   );
 }

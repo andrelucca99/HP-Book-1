@@ -7,7 +7,7 @@ function Capitulo1() {
       capa={ Capa }
       title="- Capítulo 1 -"
       subTitle="O menino que sobreviveu"
-      rota="/cap1/page1"
+      rota="/capitulo/1/pagina/1"
     />
   );
 }
