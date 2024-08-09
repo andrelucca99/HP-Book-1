@@ -549,7 +549,7 @@ export const router = createBrowserRouter([
     ],
   },
   {
-    path: 'cap10',
+    path: 'capitulo/10',
     children: [
       {
         path: '',
@@ -558,7 +558,7 @@ export const router = createBrowserRouter([
     ],
   },
   {
-    path: 'cap11',
+    path: 'capitulo/11',
     children: [
       {
         path: '',
@@ -567,7 +567,7 @@ export const router = createBrowserRouter([
     ],
   },
   {
-    path: 'cap12',
+    path: 'capitulo/12',
     children: [
       {
         path: '',
@@ -576,7 +576,7 @@ export const router = createBrowserRouter([
     ],
   },
   {
-    path: 'cap13',
+    path: 'capitulo/13',
     children: [
       {
         path: '',
@@ -585,7 +585,7 @@ export const router = createBrowserRouter([
     ],
   },
   {
-    path: 'cap14',
+    path: 'capitulo/14',
     children: [
       {
         path: '',
@@ -594,7 +594,7 @@ export const router = createBrowserRouter([
     ],
   },
   {
-    path: 'cap15',
+    path: 'capitulo/15',
     children: [
       {
         path: '',
@@ -603,7 +603,7 @@ export const router = createBrowserRouter([
     ],
   },
   {
-    path: 'cap16',
+    path: 'capitulo/16',
     children: [
       {
         path: '',
@@ -612,7 +612,7 @@ export const router = createBrowserRouter([
     ],
   },
   {
-    path: 'cap17',
+    path: 'capitulo/17',
     children: [
       {
         path: '',
