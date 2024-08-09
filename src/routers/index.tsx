@@ -232,82 +232,82 @@ export const router = createBrowserRouter([
     ],
   },
   {
-    path: 'cap5',
+    path: 'capitulo/5',
     children: [
       {
         path: '',
         element: <Capitulo5 />,
       },
       {
-        path: 'page45',
+        path: 'pagina/45',
         element: <Page45 />,
       },
       {
-        path: 'page46',
+        path: 'pagina/46',
         element: <Page46 />,
       },
       {
-        path: 'page47',
+        path: 'pagina/47',
         element: <Page47 />,
       },
       {
-        path: 'page48',
+        path: 'pagina/48',
         element: <Page48 />,
       },
       {
-        path: 'page49',
+        path: 'pagina/49',
         element: <Page49 />,
       },
       {
-        path: 'page50',
+        path: 'pagina/50',
         element: <Page50 />,
       },
       {
-        path: 'page51',
+        path: 'pagina/51',
         element: <Page51 />,
       },
       {
-        path: 'page52',
+        path: 'pagina/52',
         element: <Page52 />,
       },
       {
-        path: 'page53',
+        path: 'pagina/53',
         element: <Page53 />,
       },
       {
-        path: 'page54',
+        path: 'pagina/54',
         element: <Page54 />,
       },
       {
-        path: 'page55',
+        path: 'pagina/55',
         element: <Page55 />,
       },
       {
-        path: 'page56',
+        path: 'pagina/56',
         element: <Page56 />,
       },
       {
-        path: 'page57',
+        path: 'pagina/57',
         element: <Page57 />,
       },
       {
-        path: 'page58',
+        path: 'pagina/58',
         element: <Page58 />,
       },
       {
-        path: 'page59',
+        path: 'pagina/59',
         element: <Page59 />,
       },
       {
-        path: 'page60',
+        path: 'pagina/60',
         element: <Page60 />,
       },
       {
-        path: 'page61',
+        path: 'pagina/61',
         element: <Page61 />,
       },
       {
-        path: 'page62',
+        path: 'pagina/62',
         element: <Page62 />,
       },
     ],
