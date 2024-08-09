@@ -7,7 +7,7 @@ function Capitulo7() {
       capa={ Capa }
       title="- Capítulo 7 -"
       subTitle="O chapéu seletor"
-      rota="/cap7/page80"
+      rota="/capitulo/7/pagina/80"
     />
   );
 }
