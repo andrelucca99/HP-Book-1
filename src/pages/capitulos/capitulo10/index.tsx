@@ -7,7 +7,7 @@ function Capitulo10() {
       capa={ Capa }
       title="- Capítulo 10 -"
       subTitle="O Dia das Bruxas"
-      rota="/cap10/page"
+      rota="/capitulo/10/pagina/113"
     />
   );
 }
