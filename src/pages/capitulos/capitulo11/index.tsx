@@ -7,7 +7,7 @@ function Capitulo11() {
       capa={ Capa }
       title="- Capítulo 11 -"
       subTitle="Quadribol"
-      rota="/cap11/page"
+      rota="/capitulo/11/pagina/124"
     />
   );
 }
