@@ -7,7 +7,7 @@ function Capitulo12() {
       capa={ Capa }
       title="- Capítulo 12 -"
       subTitle="O Espelho de Ojesed"
-      rota="/cap12/page"
+      rota="/capitulo/12/pagina/133"
     />
   );
 }
