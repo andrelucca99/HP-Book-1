@@ -7,7 +7,7 @@ function Capitulo13() {
       capa={ Capa }
       title="- Capítulo 13 -"
       subTitle="Nicolau Flamel"
-      rota="/cap13/page"
+      rota="/capitulo/13/pagina/147"
     />
   );
 }

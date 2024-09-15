@@ -17,6 +17,7 @@ import { Page100, Page101, Page102, Page103, Page104, Page105, Page106, Page107,
 import { Page113, Page114, Page115, Page116, Page117, Page118, Page119, Page120, Page121, Page122, Page123 } from '../pages/capitulos/capitulo10/pages';
 import { Page124, Page125, Page126, Page127, Page128, Page129, Page130, Page131, Page132 } from '../pages/capitulos/capitulo11/pages';
 import { Page133, Page134, Page135, Page136, Page137, Page138, Page139, Page140, Page141, Page142, Page143, Page144, Page145, Page146 } from '../pages/capitulos/capitulo12/pages';
+import { Page147, Page148, Page149, Page150, Page151, Page152, Page153, Page154, Page155 } from '../pages/capitulos/capitulo13/pages';
 
 import NotFound from '../pages/NotFound';
 
@@ -720,6 +721,42 @@ export const router = createBrowserRouter([
       {
         path: '',
         element: <Capitulo13 />,
+      },
+      {
+        path: 'pagina/147',
+        element: <Page147 />,
+      },
+      {
+        path: 'pagina/148',
+        element: <Page148 />,
+      },
+      {
+        path: 'pagina/149',
+        element: <Page149 />,
+      },
+      {
+        path: 'pagina/150',
+        element: <Page150 />,
+      },
+      {
+        path: 'pagina/151',
+        element: <Page151 />,
+      },
+      {
+        path: 'pagina/152',
+        element: <Page152 />,
+      },
+      {
+        path: 'pagina/153',
+        element: <Page153 />,
+      },
+      {
+        path: 'pagina/154',
+        element: <Page154 />,
+      },
+      {
+        path: 'pagina/155',
+        element: <Page155 />,
       },
     ],
   },
