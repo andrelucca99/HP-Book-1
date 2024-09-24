@@ -7,7 +7,7 @@ function Capitulo14() {
       capa={ Capa }
       title="- Capítulo 14 -"
       subTitle="Norberto, o dragão norueguês"
-      rota="/cap14/page"
+      rota="/capitulo/14/pagina/156"
     />
   );
 }
