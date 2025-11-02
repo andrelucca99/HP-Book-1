@@ -5,6 +5,8 @@ import Paragraph from '../../../../components/Paragraph';
 import Button from '../../../../components/Button';
 import PagesContext from '../../../../context/PagesContext';
 
+import CasteloImage from '../assets/Castelo_de_Hogwarts.png';
+
 function Page79() {
   const { paginas } = useContext(PagesContext);
   const { left, right } = paginas.page77;
@@ -16,7 +18,7 @@ function Page79() {
           <Paragraph>
             {
               left.map((page, index) => (
-                <p key={ index }>{page}</p>
+                <p key={index}>{page}</p>
               ))
             }
           </Paragraph>
@@ -25,9 +27,10 @@ function Page79() {
           <Paragraph>
             {
               right.map((page, index) => (
-                <p key={ index }>{page}</p>
+                <p key={index}>{page}</p>
               ))
             }
+            <img src={CasteloImage} alt="Imagem do castelo" />
           </Paragraph>
         }
       />

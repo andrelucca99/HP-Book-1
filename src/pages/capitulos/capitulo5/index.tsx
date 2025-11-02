@@ -1,4 +1,4 @@
-import Capa from './assets/capa_5.png';
+import Capa from './assets/Beco_Diagonal.png';
 import Capitulo from '../../../components/Capitulo';
 
 function Capitulo5() {
