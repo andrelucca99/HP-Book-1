@@ -20,13 +20,13 @@ const Capitulo: React.FC<Props> = ({ capa, title, subTitle, rota }) => {
       <Outlet />
       <Sheet
         left={
-          <CapaCapitulo capa={ capa } />
+          <CapaCapitulo capa={capa} />
         }
         right={
-          <Title title={ title } subTitle={ subTitle } />
+          <Title title={title} subTitle={subTitle} />
         }
       />
-      <Button rota={ rota } />
+      <Button rota={rota} />
     </div>
   );
 };

@@ -1,4 +1,4 @@
-import Capitulo1 from './Capitulo1';
+import Capitulo1 from './capitulo1';
 import Capitulo2 from './capitulo2';
 import Capitulo3 from './capitulo3';
 import Capitulo4 from './capitulo4';
