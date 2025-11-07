@@ -16,7 +16,7 @@ function Page163() {
           <Paragraph>
             {
               left.map((page, index) => (
-                <p key={ index }>{page}</p>
+                <p key={index}>{page}</p>
               ))
             }
           </Paragraph>
@@ -25,7 +25,7 @@ function Page163() {
           <Paragraph>
             {
               right.map((page, index) => (
-                <p key={ index }>{page}</p>
+                <p key={index}>{page}</p>
               ))
             }
           </Paragraph>

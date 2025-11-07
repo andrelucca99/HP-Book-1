@@ -6,8 +6,10 @@ import Page160 from './page160';
 import Page161 from './page161';
 import Page162 from './page162';
 import Page163 from './page163';
+import Page164 from './page164';
 
 export {
   Page156, Page157, Page158, Page159,
   Page160, Page161, Page162, Page163,
+  Page164,
 };

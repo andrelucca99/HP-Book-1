@@ -5,9 +5,9 @@ import Paragraph from '../../../../components/Paragraph';
 import Button from '../../../../components/Button';
 import PagesContext from '../../../../context/PagesContext';
 
-function Page162() {
+function Page164() {
   const { paginas } = useContext(PagesContext);
-  const { left, right } = paginas.page160;
+  const { left, right } = paginas.page162;
 
   return (
     <BackgroundPage>
@@ -31,9 +31,9 @@ function Page162() {
           </Paragraph>
         }
       />
-      <Button rota="/capitulo/14/pagina/163" />
+      <Button rota="/capitulo/15" />
     </BackgroundPage>
   );
 }
 
-export default Page162;
+export default Page164;
