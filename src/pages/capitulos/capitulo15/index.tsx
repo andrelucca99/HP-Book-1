@@ -4,10 +4,10 @@ import Capitulo from '../../../components/Capitulo';
 function Capitulo15() {
   return (
     <Capitulo
-      capa={ Capa }
+      capa={Capa}
       title="- Capítulo 15 -"
       subTitle="A Floresta Proibida"
-      rota="/cap15/page"
+      rota="/capitulo/15/pagina/165"
     />
   );
 }
