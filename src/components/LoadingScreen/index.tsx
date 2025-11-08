@@ -7,7 +7,7 @@ export default function LoadingScreen() {
         <img
           src={loadingImage}
           alt="Carregando..."
-          className="w-full"
+          className="w-16"
         />
         <p>Carregando página...</p>
       </div>
