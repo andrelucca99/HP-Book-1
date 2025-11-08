@@ -1,6 +1,7 @@
 import { createBrowserRouter, RouteObject } from 'react-router-dom';
 import { lazy, Suspense, createElement } from 'react';
 import NotFound from '../pages/NotFound';
+import LoadingScreen from '../components/LoadingScreen';
 
 // Rotas principais
 const Capa = lazy(() => import('../pages/Capa'));
@@ -8,7 +9,7 @@ const Autora = lazy(() => import('../pages/Autora'));
 
 // Wrapper de carregamento
 const withSuspense = (element: React.ReactNode) => (
-  <Suspense fallback={<div>Carregando...</div>}>{element}</Suspense>
+  <Suspense fallback={<LoadingScreen />}>{element}</Suspense>
 );
 
 function generateChapterRoutes(): RouteObject[] {
