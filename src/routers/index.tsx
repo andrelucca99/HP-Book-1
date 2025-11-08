@@ -19,8 +19,8 @@ function generateChapterRoutes(): RouteObject[] {
   const chaptersMap = new Map<
     number,
     {
-      main?: React.LazyExoticComponent<React.FC>;
-      pages: { index: number; component: React.LazyExoticComponent<React.FC> }[];
+      main?: React.LazyExoticComponent<React.ComponentType<any>>;
+      pages: { index: number; component: React.LazyExoticComponent<React.ComponentType<any>> }[];
     }
   >();
 
