@@ -4,10 +4,10 @@ import Capitulo from '../../../components/Capitulo';
 function Capitulo16() {
   return (
     <Capitulo
-      capa={ Capa }
+      capa={Capa}
       title="- Capítulo 16 -"
       subTitle="No alçapão"
-      rota="/cap16/page"
+      rota="/capitulo/16/pagina/178"
     />
   );
 }
